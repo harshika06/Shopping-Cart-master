@@ -103,5 +103,5 @@ app.use(authRouter);
 
 app.listen(port, ()=>{
 
-    console.log(` server running at port ${port}`)
+    console.log(` Serverr running at port ${port}`)
 })
